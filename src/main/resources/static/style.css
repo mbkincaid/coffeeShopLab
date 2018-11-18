@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.headers {
+    background-color: #daffdd;
+    text-align: center;
+    padding: 20px;
+    color: #389f41;
+}
+
+h1, h2, h3, h4, h5, h6, h7, h8, h9, h10 {
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+.links{
+	text-align: center;
+}

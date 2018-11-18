@@ -5,7 +5,7 @@ public class User {
 	private Long id;
 	private String firstName;
 	private String lastName;
-	private String username;
+	public String username;
 	private String password;
 	
 	public User() {}
